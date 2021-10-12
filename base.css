@@ -1,0 +1,18 @@
+.display-great{
+	display: none;
+}
+.display-medium{
+	display: none;
+}
+.display-mini{
+	display: none;
+}
+
+.menu{
+	padding-left: 0;
+}
+
+.menu li{
+	display: none;
+	list-style-type: none;
+}
